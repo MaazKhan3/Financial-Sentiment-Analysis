@@ -42,7 +42,7 @@ This project aims to simplify sentiment analysis of financial news headlines to 
 ### Prerequisites
 1. Python 3.8 or above.
 2. Financial PhraseBank dataset (download from [Kaggle](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis).
-
+```
 ### Steps
 1. Clone the repository:
    ```
