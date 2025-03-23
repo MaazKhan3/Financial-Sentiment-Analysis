@@ -70,19 +70,17 @@ This project aims to simplify sentiment analysis of financial news headlines to 
    -d '{"headline": "The company announced a significant increase in its revenue for the last quarter."}' \
    http://127.0.0.1:5000/analyze
    ```
-
-### Example Response:
 ```
+### Example Response:
+
 {
   "sentiment": "positive"
 }
-```
+
 
 ---
 
 ## 📂 Project Structure
-
-```
 financial-news-sentiment-analyzer/
 ├── app.py                  # Flask API code
 ├── preprocess.py           # Preprocessing functions for text data
